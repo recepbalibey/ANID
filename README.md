@@ -1,9 +1,7 @@
 # ANID 
 
 Experiments for the paper:
-
 **"A Neural Attention Model for Real-Time Network Intrusion Detection"** *2019 IEEE Conference on Local Computer Networks*.
-(*Camera-ready version of the paper will be uploaded soon*)
 
 Special thanks and acknowledgement to [@greentfrapp](https://github.com/greentfrapp/attention-primer) for his implementation of
 the self-attention mechanism!
